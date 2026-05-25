@@ -19,6 +19,7 @@ scoop install https://github.com/dekobon/scoop-bucket/raw/main/bucket/<app>.json
 
 | App | Description |
 | --- | --- |
+| [`big-code-analysis`](bucket/big-code-analysis.json) | Compute maintainability metrics for source code in many languages. |
 | [`host-identity`](bucket/host-identity.json) | Stable host UUID across platforms, clouds, and Kubernetes. |
 
 ## Platform support
