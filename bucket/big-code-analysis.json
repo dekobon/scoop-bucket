@@ -1,16 +1,16 @@
 {
-  "version": "2.1.0",
+  "version": "2.2.0",
   "description": "Compute maintainability metrics for source code in many languages",
   "homepage": "https://github.com/dekobon/big-code-analysis",
   "license": "MPL-2.0",
   "architecture": {
     "64bit": {
-      "url": "https://github.com/dekobon/big-code-analysis/releases/download/v2.1.0/big-code-analysis-2.1.0-x86_64-pc-windows-msvc.zip",
-      "hash": "c9ca49db2e6807f1bc808b160f38cf5a7ff912cfb4097777ee4b7e559013c073"
+      "url": "https://github.com/dekobon/big-code-analysis/releases/download/v2.2.0/big-code-analysis-2.2.0-x86_64-pc-windows-msvc.zip",
+      "hash": "8dce21f94bfe5412bbce0a22db69249be1519351e4bf97090517b34ef7ad7b4e"
     },
     "arm64": {
-      "url": "https://github.com/dekobon/big-code-analysis/releases/download/v2.1.0/big-code-analysis-2.1.0-aarch64-pc-windows-msvc.zip",
-      "hash": "623efe09a6ef0e16548ded75b6b4b57c9defd8b30954a321c1be70883d5d088e"
+      "url": "https://github.com/dekobon/big-code-analysis/releases/download/v2.2.0/big-code-analysis-2.2.0-aarch64-pc-windows-msvc.zip",
+      "hash": "5a720f26e16b20db4cf7628e893cc190dba230fbbf9f2d25008d81de7dd74ce2"
     }
   },
   "bin": ["bca.exe", "bca-web.exe"],
